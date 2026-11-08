@@ -1,0 +1,112 @@
+{
+  "orgs": [
+    {
+      "org": "NCAA",
+      "displayName": "NCAA Wrestling",
+      "usgLimit": 1.020,
+      "weeklyCapPct": 1.5,
+      "weighInFormat": "hoursBefore",
+      "men": [
+        {"label": "125", "kg": 56.699}, {"label": "133", "kg": 60.329},
+        {"label": "141", "kg": 63.957}, {"label": "149", "kg": 67.585},
+        {"label": "157", "kg": 71.214}, {"label": "165", "kg": 74.843},
+        {"label": "174", "kg": 78.925}, {"label": "184", "kg": 83.457},
+        {"label": "197", "kg": 89.357}, {"label": "285", "kg": 129.274}
+      ],
+      "women": [
+        {"label": "103", "kg": 46.720}, {"label": "110", "kg": 49.895},
+        {"label": "117", "kg": 53.070}, {"label": "124", "kg": 56.246},
+        {"label": "131", "kg": 59.421}, {"label": "138", "kg": 62.596},
+        {"label": "145", "kg": 65.771}, {"label": "160", "kg": 72.575},
+        {"label": "180", "kg": 81.647}, {"label": "207", "kg": 93.893}
+      ]
+    },
+    {
+      "org": "NFHS",
+      "displayName": "NFHS High School",
+      "usgLimit": 1.025,
+      "weeklyCapPct": 1.5,
+      "weighInFormat": "dayBefore",
+      "men": [
+        {"label": "106", "kg": 48.081}, {"label": "113", "kg": 51.256},
+        {"label": "120", "kg": 54.431}, {"label": "126", "kg": 57.153},
+        {"label": "132", "kg": 59.874}, {"label": "138", "kg": 62.595},
+        {"label": "145", "kg": 65.771}, {"label": "152", "kg": 68.946},
+        {"label": "160", "kg": 72.575}, {"label": "170", "kg": 77.111},
+        {"label": "182", "kg": 82.554}, {"label": "195", "kg": 88.451},
+        {"label": "220", "kg": 99.792}, {"label": "285", "kg": 129.274}
+      ],
+      "women": [
+        {"label": "100", "kg": 45.359}, {"label": "105", "kg": 47.627},
+        {"label": "110", "kg": 49.895}, {"label": "115", "kg": 52.163},
+        {"label": "120", "kg": 54.431}, {"label": "125", "kg": 56.699},
+        {"label": "130", "kg": 58.967}, {"label": "135", "kg": 61.235},
+        {"label": "140", "kg": 63.503}, {"label": "145", "kg": 65.771},
+        {"label": "155", "kg": 70.308}, {"label": "170", "kg": 77.111},
+        {"label": "190", "kg": 86.183}, {"label": "235", "kg": 106.596}
+      ]
+    },
+    {
+      "org": "IBJJF",
+      "displayName": "IBJJF",
+      "usgLimit": 1.025,
+      "weeklyCapPct": 1.5,
+      "weighInFormat": "hoursBefore",
+      "men": [
+        {"label": "-57.5", "kg": 57.5}, {"label": "-64", "kg": 64},
+        {"label": "-69", "kg": 69}, {"label": "-76.5", "kg": 76.5},
+        {"label": "-82.3", "kg": 82.3}, {"label": "-88.3", "kg": 88.3},
+        {"label": "-94.3", "kg": 94.3}, {"label": "-100.5", "kg": 100.5}
+      ],
+      "women": [
+        {"label": "-48.5", "kg": 48.5}, {"label": "-53.5", "kg": 53.5},
+        {"label": "-58.5", "kg": 58.5}, {"label": "-64", "kg": 64},
+        {"label": "-69", "kg": 69}, {"label": "-74", "kg": 74},
+        {"label": "-79.3", "kg": 79.3}, {"label": "Open", "kg": 90}
+      ]
+    },
+    {
+      "org": "UWW",
+      "displayName": "UWW / Olympic",
+      "usgLimit": 1.025,
+      "weeklyCapPct": 1.5,
+      "weighInFormat": "dayBefore",
+      "men": [
+        {"label": "57", "kg": 57}, {"label": "61", "kg": 61},
+        {"label": "65", "kg": 65}, {"label": "70", "kg": 70},
+        {"label": "74", "kg": 74}, {"label": "79", "kg": 79},
+        {"label": "86", "kg": 86}, {"label": "92", "kg": 92},
+        {"label": "97", "kg": 97}, {"label": "125", "kg": 125}
+      ],
+      "women": [
+        {"label": "50", "kg": 50}, {"label": "53", "kg": 53},
+        {"label": "55", "kg": 55}, {"label": "57", "kg": 57},
+        {"label": "59", "kg": 59}, {"label": "62", "kg": 62},
+        {"label": "65", "kg": 65}, {"label": "68", "kg": 68},
+        {"label": "72", "kg": 72}, {"label": "76", "kg": 76}
+      ]
+    },
+    {
+      "org": "BOXING",
+      "displayName": "Boxing",
+      "usgLimit": 1.025,
+      "weeklyCapPct": 1.5,
+      "weighInFormat": "dayBefore",
+      "men": [
+        {"label": "Fly 51", "kg": 51}, {"label": "Bantam 54", "kg": 54},
+        {"label": "Feather 57", "kg": 57}, {"label": "Light 60", "kg": 60},
+        {"label": "Light Welt 63.5", "kg": 63.5}, {"label": "Welter 67", "kg": 67},
+        {"label": "Light Mid 71", "kg": 71}, {"label": "Middle 75", "kg": 75},
+        {"label": "Light Heavy 80", "kg": 80}, {"label": "Cruiser 86", "kg": 86},
+        {"label": "Heavy 92", "kg": 92}
+      ],
+      "women": [
+        {"label": "Light Fly 48", "kg": 48}, {"label": "Fly 51", "kg": 51},
+        {"label": "Bantam 54", "kg": 54}, {"label": "Feather 57", "kg": 57},
+        {"label": "Light 60", "kg": 60}, {"label": "Light Welt 63", "kg": 63},
+        {"label": "Welter 66", "kg": 66}, {"label": "Light Mid 70", "kg": 70},
+        {"label": "Middle 75", "kg": 75}, {"label": "Light Heavy 81", "kg": 81}
+      ]
+    }
+  ]
+}
