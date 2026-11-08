@@ -148,7 +148,7 @@ struct SettingsView: View {
                     Image(systemName: "key.fill").foregroundStyle(Theme.brand)
                     VStack(alignment: .leading, spacing: 2) {
                         Text("Advanced: Configure Custom API")
-                        Text(AISettingsStore.hasKey ? "Your key is stored in Keychain" : "Optional · any OpenAI-compatible provider")
+                        Text(AISettingsStore.hasKey ? "Your key is stored in Keychain" : "Optional · any compatible AI provider")
                             .font(.caption)
                             .foregroundStyle(Theme.muted)
                     }
